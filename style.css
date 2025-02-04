@@ -18,6 +18,10 @@
     background-color:#242529;
     margin-top: 50px;
     padding-inline: 5%;
+    -webkit-box-shadow: 20px 5px 24px 3px rgba(144,168,176,1);
+-moz-box-shadow: 20px 5px 24px 3px rgba(144,168,176,1);
+box-shadow: 20px 5px 24px 3px rgba(144,168,176,1);
+
 }
  .nav1 .navleft{
     width: 20%;
@@ -67,6 +71,10 @@
     background-color:#242529;
     margin-top: 50px;
     padding-inline: 5%
+    -webkit-box-shadow: 20px 5px 24px 3px rgba(144,168,176,1);
+-moz-box-shadow: 20px 5px 24px 3px rgba(144,168,176,1);
+box-shadow: 20px 5px 24px 3px rgba(144,168,176,1);
+
 }
 .nav2 .nav1left{
      width: 60%;
@@ -106,7 +114,11 @@
     height: 70px;
     background-color:#242529;
     margin-top: 50px;
-    padding-inline: 5%
+    padding-inline: 5%;
+    -webkit-box-shadow: 20px 5px 24px 3px rgba(144,168,176,1);
+-moz-box-shadow: 20px 5px 24px 3px rgba(144,168,176,1);
+box-shadow: 20px 5px 24px 3px rgba(144,168,176,1);
+
 }
 .nav3 .nav2left{
     width: 40%;
